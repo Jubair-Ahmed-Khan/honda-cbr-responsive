@@ -1,6 +1,6 @@
 /* fonts  */
 
-/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 body{
     font-family: 'Poppins', sans-serif;
@@ -14,6 +14,6 @@ body{
     background-color: #E76F51;
 }
 
-/* .header-bg p {
-    font-weight:300;
-} */
+.gray-image {
+    filter: grayscale(100%);
+}
