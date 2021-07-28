@@ -1,6 +1,6 @@
 /* fonts  */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 /* common style  */
 
@@ -10,6 +10,10 @@ body{
 
 .link-button {
     background-color: #E76F51;
+}
+
+.highlight {
+    color: #E76F51; 
 }
 
 
@@ -24,4 +28,16 @@ body{
 
 .gray-image {
     filter: grayscale(100%);
+}
+
+/* latest news section  */
+
+/* happy client section  */
+
+.rating {
+    color: #E77C40;
+}
+
+.author-name {
+    color: #23A6F0;
 }
