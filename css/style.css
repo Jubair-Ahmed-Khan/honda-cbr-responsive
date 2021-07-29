@@ -41,3 +41,7 @@ body{
 .author-name {
     color: #23A6F0;
 }
+
+.progress-bg {
+    background-color: aquamarine;
+}
