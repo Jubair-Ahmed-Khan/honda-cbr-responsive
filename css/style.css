@@ -30,8 +30,6 @@ body{
     filter: grayscale(100%);
 }
 
-/* latest news section  */
-
 /* happy client section  */
 
 .rating {
@@ -42,6 +40,16 @@ body{
     color: #23A6F0;
 }
 
+/* extra section 1 */
+
 .progress-bg {
     background-color: aquamarine;
 }
+
+/* extra section 2 */
+
+.subscribe-bg {
+    background-color: #fceae8;
+}
+
+
